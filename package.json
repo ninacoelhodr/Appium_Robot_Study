@@ -1,0 +1,22 @@
+{
+  "name": "robot_appium",
+  "version": "1.0.0",
+  "description": "Emulator Android",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.avantstay.com"
+  },
+  "author": "AvantStay",
+  "license": "ISC",
+  "homepage": "http://www.avantstay.com",
+  "dependencies": {
+    "appium": "^1.22.0"
+  }
+}
